@@ -77,10 +77,7 @@ codebase-to-course/
     └── interactive-elements.md       # Quiz, animation, and visualization patterns
 ```
 
-## Origin story
-
-This skill was born from a real project: I vibe-coded a [YouTube browser extension](https://github.com/nicekid1/yt-digest) — it worked, but I had no idea how the code functioned. So I had Claude turn the codebase into an interactive course that taught me how my own project worked. It was so useful that I turned the process into a reusable skill anyone can use.
 
 ---
 
-Built by [Zara](https://x.com/zaborzhang) with Claude Code.
+Built by [Zara](https://x.com/zarazhangrui) with Claude Code.
